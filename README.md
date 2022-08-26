@@ -114,6 +114,8 @@ ___背景：主要是 Scala 2.13.x，可能有少许 Scala 3 的。___
 
 **【2022-10-15】akka：谈谈ActorSystem对象？classic和typed中的ActorSystem对象有变化吗，请说明？** ⭐⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️
 
+**【2022-10-16】Scala的下划线_有几种使用场景（Scala2）？** ⭐⭐️⭐️
+
 
 
 ## TODO 分级存放
