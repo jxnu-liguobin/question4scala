@@ -2,7 +2,7 @@
 description: ⭐️⭐️⭐️
 ---
 
-# 【2022-08-27】Int和Integer区别？Int.box()的使用场景？
+# Int和Integer区别？Int.box()的使用场景？
 
 1. Int是Scala的整数类型，Integer是Java的整数类型，且Integer是包装类型，Int不是。
 2. Int不能new，不能为null，直接对应虚拟机的int类型。Scala通过RichInt提供Int上的拓展操作，所以Int是加强版的int。

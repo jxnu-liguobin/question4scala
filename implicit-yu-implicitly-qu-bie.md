@@ -2,7 +2,7 @@
 description: ⭐️⭐️⭐️⭐️⭐️
 ---
 
-# 【2022-08-29】implicit与implicitly区别？
+# implicit与implicitly区别？
 
 1. implicit是一个关键字，功能比较多，如隐式参数/值，隐式转换。
 2. implicitly是一个内置方法，作为隐式参数/值使用时两种没有区别，但是，implicit修饰的隐式参数需要定义在方法签名上，而使用implicitly不需要。
