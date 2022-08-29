@@ -1,0 +1,46 @@
+---
+description: ⭐️⭐️⭐️⭐
+---
+
+# 【2022-08-28】implicit的使用场景有哪些？
+
+1. 隐式参数：
+
+```scala
+    def handleEarnOpportunityInfo(earnOpportunityInfoCommand: FetchEarnOpportunityInfoCommand)(implicit lang: Language)
+```
+
+1. 隐式值
+
+```scala
+    implicit val overviewOpportunityInfoTransformer: Transformer[EarnOverviewOpportunityInfo, Displayable] =
+        Transformable[EarnOverviewOpportunityInfo, Displayable].instance
+```
+
+1. 隐式转换
+
+```scala
+    @inline implicit def intWrapper(x: Int)         = new runtime.RichInt(x)
+```
+
+1. 拓展方法（Scala2）
+
+```scala
+    implicit final class BigDecimalStringOps(val decimalStr: String) extends AnyVal {
+        def toBigDecimalOpt: Option[BigDecimal] = Try(Option(BigDecimal(decimalStr))).getOrElse(None)
+        def toBigDecimal: BigDecimal = toBigDecimalOpt.getOrElse(BigDecimal(0))
+    }
+```
+
+1. 隐式嵌套（也属于隐式转换）
+
+```scala
+    implicit final def transformerOption[F, T](implicit e: Transformer[F, T]): Transformer[Option[F], Option[T]] =
+        new Transformer[Option[F], Option[T]] {
+            override def transform(from: Option[F]): Option[T] = from.map(e.transform)
+    }
+```
+
+答到1.2.3.4及格
+
+答全，满分
