@@ -13,14 +13,6 @@
 * [7.AnyVal是什么？](2022-nian-8-yue/7.anyval-shi-shi-mo.md)
 * [8.@specialized注解有什么用？](2022-nian-8-yue/8.specialized-zhu-jie-you-shi-mo-yong.md)
 
-***
-
-* [18.简述什么是effect system（runtime）？有哪些常用的？各自特点，区别？](18.-jian-shu-shi-mo-shi-effect-systemruntime-you-na-xie-chang-yong-de-ge-zi-te-dian-qu-bie.md)
-* [19.简述泛型参数F\[\_\]是什么，意味着什么？作用是什么？](19.-jian-shu-fan-xing-can-shufshi-shi-mo-yi-wei-zhuo-shi-mo-zuo-yong-shi-shi-mo.md)
-* [22.简述什么tagless final？其中final是指什么？](22.-jian-shu-shi-mo-tagless-final-qi-zhong-final-shi-zhi-shi-mo.md)
-* [23.简述什么是monad？实现一个简单的IO Monad？](23.-jian-shu-shi-mo-shi-monad-shi-xian-yi-ge-jian-dan-de-io-monad.md)
-* [24.谈谈fold、foldRight、foldLeft？](24.-tan-tan-foldfoldrightfoldleft.md)
-
 ## 2022年-9月
 
 * [1.说说universe和context（reflect）是什么？](2022-nian-9-yue/1.-shuo-shuo-universe-he-contextreflect-shi-shi-mo.md)
@@ -40,8 +32,13 @@
 * [15.简述什么是type projection？使用场景？](2022-nian-9-yue/15.-jian-shu-shi-mo-shi-type-projection-shi-yong-chang-jing.md)
 * [16.简述什么是dependent type？使用场景？](2022-nian-9-yue/16.-jian-shu-shi-mo-shi-dependent-type-shi-yong-chang-jing.md)
 * [17.简述什么是polymorphic function？使用场景？](2022-nian-9-yue/17.-jian-shu-shi-mo-shi-polymorphic-function-shi-yong-chang-jing.md)
+* [18.简述什么是effect system（runtime）？有哪些常用的？各自特点，区别？](2022-nian-9-yue/18.-jian-shu-shi-mo-shi-effect-systemruntime-you-na-xie-chang-yong-de-ge-zi-te-dian-qu-bie.md)
+* [19.简述泛型参数F\[\_\]是什么，意味着什么？作用是什么？](2022-nian-9-yue/19.-jian-shu-fan-xing-can-shufshi-shi-mo-yi-wei-zhuo-shi-mo-zuo-yong-shi-shi-mo.md)
 * [20.简述什么是贷出模式？手写一个简单版Using？](2022-nian-9-yue/20.-jian-shu-shi-mo-shi-dai-chu-mo-shi-shou-xie-yi-ge-jian-dan-ban-using.md)
 * [21.简述什么是cake pattern模式？具体应用场景？自己手写一个？](2022-nian-9-yue/21.-jian-shu-shi-mo-shi-cake-pattern-mo-shi-ju-ti-ying-yong-chang-jing-zi-ji-shou-xie-yi-ge.md)
+* [22.简述什么tagless final？其中final是指什么？](2022-nian-9-yue/22.-jian-shu-shi-mo-tagless-final-qi-zhong-final-shi-zhi-shi-mo.md)
+* [23.简述什么是monad？实现一个简单的IO Monad？](2022-nian-9-yue/23.-jian-shu-shi-mo-shi-monad-shi-xian-yi-ge-jian-dan-de-io-monad.md)
+* [24.谈谈fold、foldRight、foldLeft？](2022-nian-9-yue/24.-tan-tan-foldfoldrightfoldleft.md)
 * [25.谈谈尾递归优化？](2022-nian-9-yue/25.-tan-tan-wei-di-gui-you-hua.md)
 * [26.Seq和List的区别？](2022-nian-9-yue/26.seq-he-list-de-qu-bie.md)
 * [27.简述scala.util.Try和try区别？](2022-nian-9-yue/27.-jian-shu-scala.util.try-he-try-qu-bie.md)
