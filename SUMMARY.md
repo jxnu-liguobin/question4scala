@@ -13,6 +13,14 @@
 * [7.AnyVal是什么？](2022-nian-8-yue/7.anyval-shi-shi-mo.md)
 * [8.@specialized注解有什么用？](2022-nian-8-yue/8.specialized-zhu-jie-you-shi-mo-yong.md)
 
+***
+
+* [18.简述什么是effect system（runtime）？有哪些常用的？各自特点，区别？](18.-jian-shu-shi-mo-shi-effect-systemruntime-you-na-xie-chang-yong-de-ge-zi-te-dian-qu-bie.md)
+* [19.简述泛型参数F\[\_\]是什么，意味着什么？作用是什么？](19.-jian-shu-fan-xing-can-shufshi-shi-mo-yi-wei-zhuo-shi-mo-zuo-yong-shi-shi-mo.md)
+* [22.简述什么tagless final？其中final是指什么？](22.-jian-shu-shi-mo-tagless-final-qi-zhong-final-shi-zhi-shi-mo.md)
+* [23.简述什么是monad？实现一个简单的IO Monad？](23.-jian-shu-shi-mo-shi-monad-shi-xian-yi-ge-jian-dan-de-io-monad.md)
+* [24.谈谈fold、foldRight、foldLeft？](24.-tan-tan-foldfoldrightfoldleft.md)
+
 ## 2022年-9月
 
 * [1.说说universe和context（reflect）是什么？](2022-nian-9-yue/1.-shuo-shuo-universe-he-contextreflect-shi-shi-mo.md)
@@ -27,27 +35,19 @@
 * [10.介绍下sbt的settingKey的实现原理？](2022-nian-9-yue/10.-jie-shao-xia-sbt-de-settingkey-de-shi-xian-yuan-li.md)
 * [11.解释下sbt配置：dependsOn和aggregate的区别？](2022-nian-9-yue/11.-jie-shi-xia-sbt-pei-zhi-dependson-he-aggregate-de-qu-bie.md)
 * [12.解释下sbt配置：dependsOn中的compile->compile;test->test是什么意思？](2022-nian-9-yue/12.-jie-shi-xia-sbt-pei-zhi-dependson-zhong-de-compilecompiletesttest-shi-shi-mo-yi-si.md)
-
-***
-
-* [13.sbt配置如何排除依赖？强制指定依赖版本？](13.sbt-pei-zhi-ru-he-pai-chu-yi-lai-qiang-zhi-zhi-ding-yi-lai-ban-ben.md)
-* [14.简述型变是什么？协变和逆变的使用场景？](14.-jian-shu-xing-bian-shi-shi-mo-xie-bian-he-ni-bian-de-shi-yong-chang-jing.md)
-* [15.简述什么是type projection？使用场景？](15.-jian-shu-shi-mo-shi-type-projection-shi-yong-chang-jing.md)
-* [16.简述什么是dependent type？使用场景？](16.-jian-shu-shi-mo-shi-dependent-type-shi-yong-chang-jing.md)
-* [17.简述什么是polymorphic function？使用场景？](17.-jian-shu-shi-mo-shi-polymorphic-function-shi-yong-chang-jing.md)
-* [18.简述什么是effect system（runtime）？有哪些常用的？各自特点，区别？](18.-jian-shu-shi-mo-shi-effect-systemruntime-you-na-xie-chang-yong-de-ge-zi-te-dian-qu-bie.md)
-* [19.简述泛型参数F\[\_\]是什么，意味着什么？作用是什么？](19.-jian-shu-fan-xing-can-shufshi-shi-mo-yi-wei-zhuo-shi-mo-zuo-yong-shi-shi-mo.md)
-* [20.简述什么是贷出模式？手写一个简单版Using？](20.-jian-shu-shi-mo-shi-dai-chu-mo-shi-shou-xie-yi-ge-jian-dan-ban-using.md)
-* [21.简述什么是cake pattern模式？具体应用场景？自己手写一个？](21.-jian-shu-shi-mo-shi-cake-pattern-mo-shi-ju-ti-ying-yong-chang-jing-zi-ji-shou-xie-yi-ge.md)
-* [22.简述什么tagless final？其中final是指什么？](22.-jian-shu-shi-mo-tagless-final-qi-zhong-final-shi-zhi-shi-mo.md)
-* [23.简述什么是monad？实现一个简单的IO Monad？](23.-jian-shu-shi-mo-shi-monad-shi-xian-yi-ge-jian-dan-de-io-monad.md)
-* [24.谈谈fold、foldRight、foldLeft？](24.-tan-tan-foldfoldrightfoldleft.md)
-* [25.谈谈尾递归优化？](25.-tan-tan-wei-di-gui-you-hua.md)
-* [26.Seq和List的区别？](26.seq-he-list-de-qu-bie.md)
-* [27.简述scala.util.Try和try区别？](27.-jian-shu-scala.util.try-he-try-qu-bie.md)
-* [28.谈谈你对多范式的理解？](28.-tan-tan-ni-dui-duo-fan-shi-de-li-jie.md)
-* [29.谈谈你对反应式的理解？](29.-tan-tan-ni-dui-fan-ying-shi-de-li-jie.md)
-* [30.什么是Aux模式？](30.-shi-mo-shi-aux-mo-shi.md)
+* [13.sbt配置如何排除依赖？强制指定依赖版本？](2022-nian-9-yue/13.sbt-pei-zhi-ru-he-pai-chu-yi-lai-qiang-zhi-zhi-ding-yi-lai-ban-ben.md)
+* [14.简述型变是什么？协变和逆变的使用场景？](2022-nian-9-yue/14.-jian-shu-xing-bian-shi-shi-mo-xie-bian-he-ni-bian-de-shi-yong-chang-jing.md)
+* [15.简述什么是type projection？使用场景？](2022-nian-9-yue/15.-jian-shu-shi-mo-shi-type-projection-shi-yong-chang-jing.md)
+* [16.简述什么是dependent type？使用场景？](2022-nian-9-yue/16.-jian-shu-shi-mo-shi-dependent-type-shi-yong-chang-jing.md)
+* [17.简述什么是polymorphic function？使用场景？](2022-nian-9-yue/17.-jian-shu-shi-mo-shi-polymorphic-function-shi-yong-chang-jing.md)
+* [20.简述什么是贷出模式？手写一个简单版Using？](2022-nian-9-yue/20.-jian-shu-shi-mo-shi-dai-chu-mo-shi-shou-xie-yi-ge-jian-dan-ban-using.md)
+* [21.简述什么是cake pattern模式？具体应用场景？自己手写一个？](2022-nian-9-yue/21.-jian-shu-shi-mo-shi-cake-pattern-mo-shi-ju-ti-ying-yong-chang-jing-zi-ji-shou-xie-yi-ge.md)
+* [25.谈谈尾递归优化？](2022-nian-9-yue/25.-tan-tan-wei-di-gui-you-hua.md)
+* [26.Seq和List的区别？](2022-nian-9-yue/26.seq-he-list-de-qu-bie.md)
+* [27.简述scala.util.Try和try区别？](2022-nian-9-yue/27.-jian-shu-scala.util.try-he-try-qu-bie.md)
+* [28.谈谈你对多范式的理解？](2022-nian-9-yue/28.-tan-tan-ni-dui-duo-fan-shi-de-li-jie.md)
+* [29.谈谈你对反应式的理解？](2022-nian-9-yue/29.-tan-tan-ni-dui-fan-ying-shi-de-li-jie.md)
+* [30.什么是Aux模式？](2022-nian-9-yue/30.-shi-mo-shi-aux-mo-shi.md)
 
 ## 2022年10月
 
@@ -67,7 +67,4 @@
 * [14.akka：比较一下本地actor（LocalActorRef）和远程actor（RemoteActorRef）？](2022-nian-10-yue/14.akka-bi-jiao-yi-xia-ben-di-actorlocalactorref-he-yuan-cheng-actorremoteactorref.md)
 * [15.akka：谈谈ActorSystem对象？classic和typed中的ActorSystem对象有变化吗，请说明？](2022-nian-10-yue/15.akka-tan-tan-actorsystem-dui-xiang-classic-he-typed-zhong-de-actorsystem-dui-xiang-you-bian-hua-m.md)
 * [16.下划线\_有几种使用场景（Scala2）？](2022-nian-10-yue/16.-xia-hua-xian-you-ji-zhong-shi-yong-chang-jing-scala2.md)
-
-***
-
-* [17.简述副作用是什么，什么是纯函数？](17.-jian-shu-fu-zuo-yong-shi-shi-mo-shi-mo-shi-chun-han-shu.md)
+* [17.简述副作用是什么，什么是纯函数？](2022-nian-10-yue/17.-jian-shu-fu-zuo-yong-shi-shi-mo-shi-mo-shi-chun-han-shu.md)
