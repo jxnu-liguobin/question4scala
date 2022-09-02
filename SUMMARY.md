@@ -15,9 +15,9 @@
 
 ## 2022年-9月
 
-* [1.说说universe和context（reflect）是什么？](2022-nian-9-yue/1.-shuo-shuo-universe-he-contextreflect-shi-shi-mo.md)
-* [2.谈谈WeakTypeTag和TypeTag区别？](2022-nian-9-yue/2.-tan-tan-weaktypetag-he-typetag-qu-bie.md)
-* [3.谈谈ClassTag和Manifest?](2022-nian-9-yue/3.-tan-tan-classtag-he-manifest.md)
+* [1.说说universe和context是什么？（反射和宏）](2022-nian-9-yue/1.-shuo-shuo-universe-he-contextreflect-shi-shi-mo.md)
+* [2.谈谈WeakTypeTag\[T\]和TypeTag\[T\]区别？（反射和宏）](2022-nian-9-yue/2.-tan-tan-weaktypetag-he-typetag-qu-bie.md)
+* [3.谈谈ClassTag\[T\]和Manifest\[T\]?（反射和宏）](2022-nian-9-yue/3.-tan-tan-classtag-he-manifest.md)
 * [4.谈谈传名参数和传值参数？](2022-nian-9-yue/4.-tan-tan-chuan-ming-can-shu-he-chuan-zhi-can-shu.md)
 * [5.def和val的区别？](2022-nian-9-yue/5.def-he-val-de-qu-bie.md)
 * [6.Function和PartialFunction的区别？](2022-nian-9-yue/6.function-he-partialfunction-de-qu-bie.md)
