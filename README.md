@@ -9,3 +9,5 @@
 [在线阅读 => Gitbook](https://dreamylost.gitbook.io/question4scala/) | [提出意见 => Github](https://github.com/jxnu-liguobin/question4scala)
 
 _**背景：主要是 Scala 2.13.x，可能有少许 Scala 3 的。**_
+
+## 禁止白嫖！
