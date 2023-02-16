@@ -43,5 +43,5 @@
 * [什么是Aux模式？](Scala2/30.-shi-mo-shi-aux-mo-shi.md)
 * [sum types与union types区别？](Scala2/1.-sum-types-yu-union-types-qu-bie.md)
 * [简述什么是HList，与Tuple区别？](Scala2/2.-jian-shu-shi-mo-shi-hlist-yu-tuple-qu-bie.md)
-* [简述什么是Fiber？解决了什么问题？与Thread区别？](scala2/4.-jian-shu-shi-mo-shi-fiber-jie-jue-le-shi-mo-wen-ti-yu-thread-qu-bie.md)
+* [简述什么是Fiber？解决了什么问题？与Thread区别？](Scala2/4.-jian-shu-shi-mo-shi-fiber-jie-jue-le-shi-mo-wen-ti-yu-thread-qu-bie.md)
 * [简述什么是STM？解决了什么问题？](Scala2/3.-jian-shu-shi-mo-shi-stm-jie-jue-le-shi-mo-wen-ti.md)
